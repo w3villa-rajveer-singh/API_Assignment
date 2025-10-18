@@ -32,12 +32,12 @@ The APIs fetch Pokémon data, display raw JSON, and filtered outputs.
 ### REST API
 
 ![REST API](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/9c46e05826c433333fbdd145ca1c2cd1097ab76d/Screenshots/Screenshot%20from%202025-10-18%2016-03-44.png)<br/><hr/>
-![GraphQL API Example](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/cca7f05bf42fb802959fc023aef81896132f77b5/Screenshots/Screenshot%20from%202025-10-18%2016-08-30.png)
-![REST API Example](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/9c46e05826c433333fbdd145ca1c2cd1097ab76d/Screenshots/Screenshot%20from%202025-10-18%2016-03-44.png)
-![GraphQL API Example](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/cca7f05bf42fb802959fc023aef81896132f77b5/Screenshots/Screenshot%20from%202025-10-18%2016-08-30.png)
+![REST API](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/cca7f05bf42fb802959fc023aef81896132f77b5/Screenshots/Screenshot%20from%202025-10-18%2016-08-30.png)<br><hr/>
 
-![REST API Example](screenshots/rest_api.png)
-![GraphQL API Example](screenshots/graphql_api.png)
+### GrapghQL API
+![GraphQL API](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/c9e616335b66feff7906c2c4465e2ca42ad05860/Screenshots/Screenshot%20from%202025-10-18%2016-07-56.png)<br><hr/>
+![GraphQL API Example](https://github.com/w3villa-rajveer-singh/API_Assignment/blob/c9e616335b66feff7906c2c4465e2ca42ad05860/Screenshots/Screenshot%20from%202025-10-18%2016-06-52.png)<br><hr/>
+
 
 
 
